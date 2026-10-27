@@ -2,6 +2,10 @@
 
 An NLP project that classifies IMDb movie reviews as **positive or negative**, extracts keyphrases to highlight important themes, and presents insights through visualizations and an interactive Streamlit application.
 
+## Application Preview
+
+![IMDb Movie Review Analyzer](screenshots/app_screenshot.png)
+
 ## Features
 
 - **Exploratory Data Analysis:** Examines sentiment distribution, review length, and dataset characteristics.
