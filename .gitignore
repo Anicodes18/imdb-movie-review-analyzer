@@ -13,14 +13,6 @@ dataset/processed/*
 !dataset/raw/.gitkeep
 !dataset/processed/.gitkeep
 
-# Model files
-models/
-*.pkl
-*.joblib
-*.pt
-*.pth
-*.safetensors
-
 # Environment variables
 .env
 
